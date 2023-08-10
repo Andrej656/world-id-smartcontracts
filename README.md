@@ -104,3 +104,4 @@ All the technical docs for the Wordcoin SDK, World ID Protocol, examples, guides
 </a>
 
 <!-- WORLD-ID-SHARED-README-TAG:END -->
+# world-id-smartcontracts
