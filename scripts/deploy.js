@@ -49,7 +49,7 @@ async function main() {
 	)
 		.then((res) => res.json())
 		.then(
-			(res) => res.find(({ key }) => key == "staging.semaphore.wld.eth").value
+			(res) => res.find(({ key }) => key == "mumbai.id.worldcoin.eth").value
 		);
 
 	// if you need any extra constructor parameters, add them to this array in order
